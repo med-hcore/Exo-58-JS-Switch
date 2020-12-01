@@ -1,9 +1,17 @@
-
-(fruits) {
-    "Banana":
+let fruits = 0
+switch(fruits)
+{
+    case"Banana":
     alert("Hello")
     break;
-    "Apple":
+    case"Apple":
     alert("Welcome")
     break;
+    
+
+
+
+
+
 }
+
